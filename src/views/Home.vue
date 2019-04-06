@@ -2,7 +2,7 @@
   <v-slide-y-reverse-transition>
     <v-content class="pa-0" v-show="show">
 
-      <v-container fluid class="pa-0 mt-5 hidden-sm-and-down" :style="{'background-image':'url('+require('@/assets/img/bgi1.png')+')'}" style="background-position:left;background-size:500px">
+      <v-container fluid class="pa-0 mt-5 hidden-sm-and-down">
         <v-layout wrap align-center justify-center row fill-height class="">
           <v-flex xs12 md10 >
             <startscreen/>
