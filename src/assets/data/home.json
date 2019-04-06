@@ -1,0 +1,59 @@
+{
+    "eventName":"International Women's Day 2019",
+    "themeTitle":"Lift as you Climb",
+    "navTitle":"IWD'19 Ahmedabad",
+    "registrationLink":"",
+    "chapterName":"GDG Ahmedabad",
+    "eventLogo":"https://www.womentechmakers.com/static/images/wtm-icon@2x.png",
+    "eventDes":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
+    "aboutWTMProgram":"Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. In 2019, we’re organizing the fifth edition in Ahmedabad as part of the special event The Women Techmakers Global Event Series Celebrating International Women’s Day (WTM IWD).",
+    "chapterMeetupLink":"https://www.meetup.com/GDG-Ahmedabad",
+    "eventMeetupLink" : "https://www.meetup.com/GDG-Ahmedabad/events/259979852/",
+    "eventDate" : "28th April, 2019",
+    "eventTime" : "09:00 AM to 5:00 PM",
+    "eventVenue" : "Ahmedabad",
+    "email":"pareshmayani@gmail.com",
+    "followLinks":{
+        "facebook":"https://www.facebook.com/GDGAhmedabad/",
+        "twitter":"https://twitter.com/GDGAhmedabad/"
+    },
+    "hashTag" : [
+        {
+            "name" : "#GDGAhmedabad"
+        },
+        {
+            "name" : "#WTMAhmedabad"
+        },
+        {
+            "name" : "#GDG"
+        },
+        {
+            "name" : "#WTM"
+        },
+        {
+            "name" : "#IWD19"
+        }
+    ],
+    "stats":[
+        {
+            "name":"Sessions",
+            "des":"Android, Flutter, Cloud, Design, Codelab, Tech/ Non-Tech talks, Networking and much more...",
+            "longDes":"Android, Flutter, Cloud, Design, Codelab, Tech/ Non-Tech talks, Networking and much more..."
+        },
+        {
+            "name":"Showcases",
+            "des":"Demo zone with the latest of Google tech: Actions by Women in tech all in one place",
+            "longDes":"Showcase of the projects and apps developed by the developers who participated in the events organized by GDG Ahmedabad."
+        },
+        {
+            "name":"Networking",
+            "des":"Work hard and enjoy, IWD'19 is the best place to meet new people",
+            "longDes":"Meet and connect with the people having experience in technical field. Connection between one and wide and share your interest and experiences."
+        },
+        {
+            "name":"Workshop",
+            "des":"2 workshops to get your hands dirty and create a working prototype right during the conference",
+            "longDes":"Get your hands dirty and know more about 'Firebase'. A workshop on 'I'm Remarkable' will help the individual to grow and enhance their personal branding."
+        }
+    ]
+}

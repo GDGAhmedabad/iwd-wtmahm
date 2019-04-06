@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "iwd-wtmahm",
+    "default": "iwd-wtmahm"
+  }
+}
