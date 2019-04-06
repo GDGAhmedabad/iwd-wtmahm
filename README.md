@@ -1,7 +1,8 @@
 
 # IWD WTMAhmedabad Web App
 
-Standard Web App for IWD Events: GDG Communties. <br>
+Under the initiative of Women Techmakers by Google, the Ahmedabad chapter WTMAhmedabad hosts the International Women's Day (IWD) Celebration each year to recognize, commemorate, know the empowering journeys and the spectacular achievements of the #WomenInTech around us. This is the official web application of IWD Celebration at WTM Ahmedabad. The repository is available to clone and you can make your own by forking it. Follow the below-described steps for a detailed description.
+
 [Preview](http://iwd.gdgahmedabad.com/) <br>
 
 ## Features
