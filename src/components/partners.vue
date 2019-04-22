@@ -127,12 +127,12 @@
                                         class="transparent elevation-0"
                                     >
                                     <v-card flat tile class="d-flex pa-2 ma-1 elevation-1" style="border-radius:5px;border-width: 1px; border-style: solid;">
-                                        <a href="https://kcg.gujarat.gov.in/" target="_blank">
+                                        <a href="http://ssipgujarat.in/" target="_blank">
                                         <v-tooltip bottom>
                                             <template v-slot:activator="{ on }">
                                         <v-img
-                                            :src="require('@/assets/img/partners/venue.svg')"
-                                            :lazy-src="require('@/assets/img/partners/venue.svg')"
+                                            :src="require('@/assets/img/partners/venue_ssip.png')"
+                                            :lazy-src="require('@/assets/img/partners/venue_ssip.png')"
                                             aspect-ratio="3.0"
                                             class="white"
                                             v-on="on"
@@ -149,7 +149,7 @@
                                             </v-layout>
                                         </v-img>
                                         </template>
-                                        <span class="google-font">Knowledge concertium of gujarat</span>
+                                        <span class="google-font">SSIP I-Hub</span>
                                         </v-tooltip>
                                         </a>
                                     </v-card>
