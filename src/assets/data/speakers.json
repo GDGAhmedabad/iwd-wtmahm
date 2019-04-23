@@ -1,11 +1,20 @@
 [
     {
         "name":"Sheel Damani",
-        "designation":"",
+        "designation":"Product Manager and Design Lead",
         "company": "Independent Design Advocate and Consultant",
         "twitter":"https://twitter.com/sheeldamani",
         "linkedin":"https://www.linkedin.com/in/sheeldamani/",
         "github":"",
         "profileImage":"sheel_damani.jpg"
+    },
+    {
+        "name":"Jaina Mehta",
+        "designation":"Lecturer | Co-founder @ParkiN",
+        "company": "Ahmedabad University",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"jaina_mehta.jpg"
     }
 ]
