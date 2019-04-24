@@ -64,6 +64,10 @@
                             <v-btn class="mt-0 mx-0" icon v-if="(item.github).length>0" :href="item.github" target="_blank">
                                 <i class="fab fa-github" style="color:#333"></i>
                             </v-btn>
+
+                            <v-btn class="mt-0 mx-0" icon v-if="(item.facebook).length>0" :href="item.facebook" target="_blank">
+                                <i class="fab fa-facebook" style="color:#3B5998"></i>
+                            </v-btn>
                         </div>
                     </v-flex>
                 </v-layout>
