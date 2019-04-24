@@ -16,5 +16,14 @@
         "linkedin":"",
         "github":"",
         "profileImage":"jaina_mehta.jpg"
+    },
+    {
+        "name":"Dhruva Shastri",
+        "designation":"Business Developer",
+        "company": "All Events",
+        "twitter":"https://twitter.com/dhruvashastri12",
+        "linkedin":"https://www.linkedin.com/in/dhruvashastri12/",
+        "github":"https://github.com/dhruvashastri12",
+        "profileImage":"dhruva_shastri.jpg"
     }
 ]
