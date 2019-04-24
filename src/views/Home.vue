@@ -29,7 +29,7 @@
       <v-container fluid class="pa-0 py-3" :style="{'background-image':'url('+require('@/assets/img/svg/a.svg')+')'}" style="background-size:3000px">
         <v-layout wrap align-center justify-center row fill-height class="">
           <v-flex xs12 md10 >
-            <!-- <homespeaker/> -->
+            <homespeaker/>
             <featureListing/>
             <partners/>
           </v-flex>
@@ -44,7 +44,7 @@
 <script>
   import startscreen from '../components/home/startscreen'
   import stats from '../components/home/stats'
-  // import homespeaker from '../components/home/home-speakers'
+  import homespeaker from '../components/home/home-speakers'
   import featureListing from '../components/home/features-content'
   import partners from '../components/partners'
   import startscreenMobile from '../components/home/startscreenMobile'
@@ -54,7 +54,7 @@
     components: {
       startscreen,  
       stats,
-      // homespeaker,
+      homespeaker,
       partners,
       featureListing,
       startscreenMobile
