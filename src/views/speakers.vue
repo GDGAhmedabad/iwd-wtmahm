@@ -29,10 +29,11 @@
 
             <v-flex xs12 md10 lg10>     
                 <v-layout wrap row fill-height class="pa-0">
-                    <v-flex xs6 sm3 md2 lg2 v-for="(item,i) in speakersData" :key="i" class="text-xs-center" style="text-align:center">
+                    <v-flex style="padding-left: 20px; padding-top:20px; text-align:center" xs6 sm3 md2 lg3 v-for="(item,i) in speakersData" :key="i" class="text-xs-center">
+                        <v-card height="100%">
                         <div 
-                            class="text-xs-center ma-1 py-5 my-0" 
-                            style="text-align:center;border: 1px solid #e0e0e0;min-height:250px;border-radius:7px">
+                            class="text-xs-center ma-1 py-5 my-0 px-2"
+                            style="text-align:center;min-height:250px;">
                             <v-avatar size="100">
                                 <v-img
                                 :src="getImgUrl(item.profileImage)"
@@ -51,8 +52,8 @@
                                 </v-img>
                             </v-avatar>
                             <p class="mt-3 mb-0 google-font" style="font-size:120%">{{item.name}}</p>
-                            <p class="mt-1 mb-0 google-font">{{item.designation}}</p>
-                            <p class="mt-1 mb-0 google-font">{{item.company}}</p>
+                            <p class="mt-1 mb-0 google-font" style="color: #737373">{{item.designation}}</p>
+                            <p class="mt-1 mb-0 google-font" style="color: #737373">{{item.company}}</p>
 
                             <v-btn class="mt-0 mx-0" icon v-if="(item.twitter).length>0" :href="item.twitter" target="_blank">
                                 <i class="fab fa-twitter" style="color:#1da1f2"></i>
@@ -70,6 +71,7 @@
                                 <i class="fab fa-facebook" style="color:#3B5998"></i>
                             </v-btn>
                         </div>
+                    </v-card>
                     </v-flex>
                 </v-layout>
             </v-flex>
