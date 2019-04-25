@@ -58,5 +58,25 @@
         "github":"https://github.com/Nishchit14",
         "facebook": "",
         "profileImage":"nishchit_dhanani.jpg"
+    },
+    {
+        "name":"Dhrumil Shah",
+        "designation":"Associate Product and Customer Success Manager",
+        "company": "Shipmnts",
+        "twitter":"https://twitter.com/dhuma1981/",
+        "linkedin":"https://www.linkedin.com/in/dhuma1981/",
+        "github":"https://github.com/dhuma1981/",
+        "facebook": "",
+        "profileImage":"dhrumil_shah.jpg"
+    },
+    {
+        "name":"Bhavik Makwana",
+        "designation":"Software Engineer",
+        "company": "Simform Solutions",
+        "twitter":"https://twitter.com/ibhavikmakwana/",
+        "linkedin":"https://www.linkedin.com/in/ibhavikmakwana/",
+        "github":"https://github.com/ibhavikmakwana/",
+        "facebook": "",
+        "profileImage":"bhavik_makwana.jpg"
     }
 ]
