@@ -1,8 +1,0 @@
-mt - upper padding -- mt-2, mt-3
-sm - flex max width, basis -- sm6, sm10
-
-Firebase gitignore:
-https://stackoverflow.com/questions/52130772/whats-the-purpose-of-firebase-hosting-alphanum-cache
-
-Spacing classes:
-https://bootstrap-vue.js.org/docs/reference/spacing-classes/

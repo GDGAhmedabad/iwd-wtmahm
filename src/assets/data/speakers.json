@@ -38,5 +38,55 @@
         "github":"",
         "facebook": "https://www.facebook.com/people/Bhavini-Mehta/100005317938576",
         "profileImage":"bhavini_mehta.jpg"
+    },
+    {
+        "name":"Shreya Ranpariya",
+        "designation":"Tech Entrepreneur, Co-creater @JSbot",
+        "company": "JSbot",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/shreya-ranpariya/",
+        "github":"",
+        "facebook": "",
+        "profileImage":"shreya_ranpariya.jpg"
+    },
+    {
+        "name":"Nishchit Dhanani",
+        "designation":"Tech Entrepreneur, Creater @JSbot",
+        "company": "JSbot",
+        "twitter":"https://twitter.com/Nishchit14/",
+        "linkedin":"https://www.linkedin.com/in/nishchit14/",
+        "github":"https://github.com/Nishchit14",
+        "facebook": "",
+        "profileImage":"nishchit_dhanani.jpg"
+    },
+    {
+        "name":"Dhrumil Shah",
+        "designation":"Associate Product and Customer Success Manager",
+        "company": "Shipmnts",
+        "twitter":"https://twitter.com/dhuma1981/",
+        "linkedin":"https://www.linkedin.com/in/dhuma1981/",
+        "github":"https://github.com/dhuma1981/",
+        "facebook": "",
+        "profileImage":"dhrumil_shah.jpg"
+    },
+    {
+        "name":"Bhavik Makwana",
+        "designation":"Software Engineer",
+        "company": "Simform Solutions",
+        "twitter":"https://twitter.com/ibhavikmakwana/",
+        "linkedin":"https://www.linkedin.com/in/ibhavikmakwana/",
+        "github":"https://github.com/ibhavikmakwana/",
+        "facebook": "",
+        "profileImage":"bhavik_makwana.jpg"
+    },
+    {
+        "name":"Kairavi Shah",
+        "designation":"Software Developer",
+        "company": "Solulab Inc.",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/er-kairavi-shah-6a25a2a2/",
+        "github":"",
+        "facebook": "https://www.facebook.com/kairavi.whitelotus",
+        "profileImage":"kairavi_shah.jpg"
     }
 ]
