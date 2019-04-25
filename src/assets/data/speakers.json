@@ -78,5 +78,15 @@
         "github":"https://github.com/ibhavikmakwana/",
         "facebook": "",
         "profileImage":"bhavik_makwana.jpg"
+    },
+    {
+        "name":"Kairavi Shah",
+        "designation":"Software Developer",
+        "company": "Solulab Inc.",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/er-kairavi-shah-6a25a2a2/",
+        "github":"",
+        "facebook": "https://www.facebook.com/kairavi.whitelotus",
+        "profileImage":"kairavi_shah.jpg"
     }
 ]
