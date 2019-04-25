@@ -38,5 +38,25 @@
         "github":"",
         "facebook": "https://www.facebook.com/people/Bhavini-Mehta/100005317938576",
         "profileImage":"bhavini_mehta.jpg"
+    },
+    {
+        "name":"Shreya Ranpariya",
+        "designation":"Tech Entrepreneur, Co-creater @JSbot",
+        "company": "JSbot",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/shreya-ranpariya/",
+        "github":"",
+        "facebook": "",
+        "profileImage":"shreya_ranpariya.jpg"
+    },
+    {
+        "name":"Nishchit Dhanani",
+        "designation":"Tech Entrepreneur, Creater @JSbot",
+        "company": "JSbot",
+        "twitter":"https://twitter.com/Nishchit14/",
+        "linkedin":"https://www.linkedin.com/in/nishchit14/",
+        "github":"https://github.com/Nishchit14",
+        "facebook": "",
+        "profileImage":"nishchit_dhanani.jpg"
     }
 ]
