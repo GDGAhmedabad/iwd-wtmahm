@@ -1,17 +1,22 @@
 [
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Mobile"
+        "title":"Information Architecture and it's impact on UX Design",
+        "des":"User Experience of any tech product depends on how well we humanise the language. While UX copywriting is one of the aspects, IA is the foundation of how we start building the product. This talk will focus on helping professionals understand the role of IA and its impact on UX. Also, visibly differentiate between a strong/weak IA solution.",
+        "track":"Design"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Web"
+        "title":"#IamRemarkable Workshop",
+        "des":"#IamRemarkable is a Google initiative empowering women and underrepresented groups to celebrate their achievements in the workplace and beyond. The workshop will highlight to participants the importance of self promotion in their careers and provide them with the tools to practice this skill.",
+        "track":"Workshop"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Cloud"
+        "title":"Minimalism - The pursuit of less",
+        "des":"The quintessential skill in the rapidly expanding world of today - how you package yourself, communicate your unique skills and the value you bring to an organisation. Your personal brand is what people say about you when you are not in the room. The 45 minute session will teach you exactly that! How to build a reputation for yourself!",
+        "track":"Personal Branding"
+    },
+    {
+        "title":"Flutter Codelab / Networking",
+        "des":"This codelab provides a deeper dive into Flutter. You will be able to Write Flutter app that runs on both Android and iOS, Building layouts, Navigation & Routing, Hero Animation.",
+        "track":"Flutter"
     }
 ]
