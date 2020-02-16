@@ -7,7 +7,57 @@
                 <p class="google-font mt-0" style="font-size:120%">If you’re interested in being showcased throughout <b>{{homeData.eventName}}</b>, contact <a style="color:#1565C0;text-decoration: none;" :href="`mailto:${homeData.email}`">{{homeData.email}}</a> to discuss sponsorship opportunities.</p>
             </v-flex>
 
-            <v-flex xs12 md12 class="mt-2 transparent">
+            <v-flex xs12 md12 class="mt-2">
+                <p class="google-font my-2" style="font-size:110%">Template Partner</p>
+
+                <v-layout class="transparent" >
+                    <v-flex xs12 sm10 class="elevation-0 transparent">
+                        <v-card class="elevation-0 pa-0 ma-0 transparent">
+                            <v-container grid-list-sm fluid class="pa-0 ma-0">
+                                <v-layout row wrap class="ma-0 pa-0">
+                                    <v-flex
+                                        xs6
+                                        md2
+                                        d-flex
+                                        class="transparent elevation-0"
+                                    >
+                                    <v-card flat tile class="d-flex pa-2 ma-1 elevation-1" style="border-radius:5px;border-width: 1px; border-style: solid;">
+                                        <a href="https://gdgjalandhar.com" target="_blank">
+                                        <v-tooltip bottom>
+                                            <template v-slot:activator="{ on }">
+                                        <v-img
+                                            :src="require('@/assets/img/partners/gdgjalandhar.png')"
+                                            :lazy-src="require('@/assets/img/partners/gdgjalandhar.png')"
+                                            aspect-ratio="3.0"
+                                            class="white"
+                                            v-on="on"
+                                        >
+                                            <v-layout
+                                                slot="placeholder"
+                                                fill-height
+                                                align-center
+                                                justify-center
+                                                ma-0
+                                            >
+                                                <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+                                            </v-layout>
+                                        </v-img>
+                                        </template>
+                                        <span class="google-font">GDG Jalandhar</span>
+                                        </v-tooltip>
+                                        </a>
+                                    </v-card>
+                                    </v-flex>
+
+                                </v-layout>
+                            </v-container>
+                        </v-card>
+                    </v-flex>
+                </v-layout>
+
+            </v-flex>
+
+            <v-flex xs12 md12 class="mt-3 transparent">
                 <p class="google-font my-2" style="font-size:110%">General Partner</p>
 
                 <v-layout row wrap class="transparent">
@@ -63,7 +113,7 @@
             </v-flex>
 
             <v-flex xs12 md12 class="mt-3">
-                <p class="google-font my-2" style="font-size:110%">Template Partner</p>
+                <p class="google-font my-2" style="font-size:110%">Venue Partner</p>
 
                 <v-layout class="transparent" >
                     <v-flex xs12 sm10 class="elevation-0 transparent">
@@ -77,15 +127,16 @@
                                         class="transparent elevation-0"
                                     >
                                     <v-card flat tile class="d-flex pa-2 ma-1 elevation-1" style="border-radius:5px;border-width: 1px; border-style: solid;">
-                                        <a href="https://gdgjalandhar.com" target="_blank">
+                                        <a href="http://ssipgujarat.in/" target="_blank">
                                         <v-tooltip bottom>
                                             <template v-slot:activator="{ on }">
                                         <v-img
-                                            :src="require('@/assets/img/partners/gdgjalandhar.png')"
-                                            :lazy-src="require('@/assets/img/partners/gdgjalandhar.png')"
+                                            :src="require('@/assets/img/partners/venue_ssip.png')"
+                                            :lazy-src="require('@/assets/img/partners/venue_ssip.png')"
                                             aspect-ratio="3.0"
                                             class="white"
                                             v-on="on"
+                                            contain
                                         >
                                             <v-layout
                                                 slot="placeholder"
@@ -98,7 +149,7 @@
                                             </v-layout>
                                         </v-img>
                                         </template>
-                                        <span class="google-font">GDG Jalandhar</span>
+                                        <span class="google-font">SSIP I-Hub</span>
                                         </v-tooltip>
                                         </a>
                                     </v-card>
@@ -111,7 +162,6 @@
                 </v-layout>
 
             </v-flex>
-            
         </v-layout>
     </v-container>
 </template>

@@ -29,7 +29,7 @@
         <span>Attending</span>
         <v-icon>rounded_corner</v-icon>
       </v-btn>
-      <!--
+      
       <v-btn
         color="#263238"
         flat
@@ -51,7 +51,7 @@
         <span>Speakers</span>
         <v-icon>group</v-icon>
       </v-btn>
-      -->
+      
       <v-btn
         color="#263238"
         flat

@@ -1,47 +1,92 @@
 [
     {
-        "name":"Speaker Name",
-        "designation":"Front End Developer",
-        "company": "GDG Ahmedabad",
-        "twitter":"",
-        "linkedin":"",
+        "name":"Sheel Damani",
+        "designation":"Product Manager and Design Lead",
+        "company": "Independent Design Advocate and Consultant",
+        "twitter":"https://twitter.com/sheeldamani",
+        "linkedin":"https://www.linkedin.com/in/sheeldamani/",
         "github":"",
-        "profileImage":""
+        "facebook":"",
+        "profileImage":"sheel_damani.jpg"
     },
     {
-        "name":"Speaker Name",
-        "designation":"Front End Developer",
-        "company": "GDG Ahmedabad",
+        "name":"Jaina Mehta",
+        "designation":"Lecturer | Co-founder @ParkiN",
+        "company": "Ahmedabad University",
         "twitter":"",
         "linkedin":"",
         "github":"",
-        "profileImage":""
+        "facebook":"",
+        "profileImage":"jaina_mehta.jpg"
     },
     {
-        "name":"Speaker Name",
-        "designation":"Front End Developer",
-        "company": "GDG Ahmedabad",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":""
+        "name":"Dhruva Shastri",
+        "designation":"Business Developer",
+        "company": "All Events",
+        "twitter":"https://twitter.com/dhruvashastri12",
+        "linkedin":"https://www.linkedin.com/in/dhruvashastri12/",
+        "github":"https://github.com/dhruvashastri12",
+        "facebook":"",
+        "profileImage":"dhruva_shastri.jpg"
     },
     {
-        "name":"Speaker Name",
-        "designation":"Front End Developer",
-        "company": "GDG Ahmedabad",
+        "name":"Bhavini Mehta",
+        "designation":"Founder & CEO",
+        "company": "Infinity Business Solutions, Outliers Publishing",
         "twitter":"",
-        "linkedin":"",
+        "linkedin":"https://www.linkedin.com/in/bhavinimehta/",
         "github":"",
-        "profileImage":""
+        "facebook": "https://www.facebook.com/people/Bhavini-Mehta/100005317938576",
+        "profileImage":"bhavini_mehta.jpg"
     },
     {
-        "name":"Speaker Name",
-        "designation":"Front End Developer",
-        "company": "GDG Ahmedabad",
+        "name":"Shreya Ranpariya",
+        "designation":"Tech Entrepreneur, Co-creater @JSbot",
+        "company": "JSbot",
         "twitter":"",
-        "linkedin":"",
+        "linkedin":"https://www.linkedin.com/in/shreya-ranpariya/",
         "github":"",
-        "profileImage":""
+        "facebook": "",
+        "profileImage":"shreya_ranpariya.jpg"
+    },
+    {
+        "name":"Nishchit Dhanani",
+        "designation":"Tech Entrepreneur, Creater @JSbot",
+        "company": "JSbot",
+        "twitter":"https://twitter.com/Nishchit14/",
+        "linkedin":"https://www.linkedin.com/in/nishchit14/",
+        "github":"https://github.com/Nishchit14",
+        "facebook": "",
+        "profileImage":"nishchit_dhanani.jpg"
+    },
+    {
+        "name":"Dhrumil Shah",
+        "designation":"Associate Product and Customer Success Manager",
+        "company": "Shipmnts",
+        "twitter":"https://twitter.com/dhuma1981/",
+        "linkedin":"https://www.linkedin.com/in/dhuma1981/",
+        "github":"https://github.com/dhuma1981/",
+        "facebook": "",
+        "profileImage":"dhrumil_shah.jpg"
+    },
+    {
+        "name":"Bhavik Makwana",
+        "designation":"Software Engineer",
+        "company": "Simform Solutions",
+        "twitter":"https://twitter.com/ibhavikmakwana/",
+        "linkedin":"https://www.linkedin.com/in/ibhavikmakwana/",
+        "github":"https://github.com/ibhavikmakwana/",
+        "facebook": "",
+        "profileImage":"bhavik_makwana.jpg"
+    },
+    {
+        "name":"Kairavi Shah",
+        "designation":"Software Developer",
+        "company": "Solulab Inc.",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/er-kairavi-shah-6a25a2a2/",
+        "github":"",
+        "facebook": "https://www.facebook.com/kairavi.whitelotus",
+        "profileImage":"kairavi_shah.jpg"
     }
 ]

@@ -30,10 +30,12 @@
                         {{hs.name}} &nbsp;
                     </span>
                 </p>
-                <!-- <v-btn outline :href="data.registrationLink" target="_blank" class="ma-0 google-font" color="blue" style="text-transform: capitalize;border-radius:5px;">Request for an Invitation</v-btn>
-                &nbsp; -->
-                <v-btn :href="data.eventMeetupLink" target="_blank" round color="blue" style="text-transform: capitalize;border-radius:5px" class="ml-0" dark>Meetup</v-btn>
-            
+                <!--
+                <v-btn :href="data.registrationLink" target="_blank" class="ma-0 google-font elevation-0" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Register Here</v-btn>
+                &nbsp;
+                -->
+                <v-btn outline :href="data.eventMeetupLink" target="_blank" round color="red" style="text-transform: capitalize;border-radius:5px"  class="ml-0" dark>Meetup</v-btn>
+
             </v-flex>
 
             

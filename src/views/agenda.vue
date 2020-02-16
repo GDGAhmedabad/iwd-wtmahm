@@ -136,13 +136,13 @@ export default {
     },
     methods:{
         showColor(tag){
-            if(tag == "Web"){
+            if(tag == "Workshop"){
                 return "red"
             }
-            else if(tag == "Mobile"){
+            else if(tag == "Product Demo"){
                 return "green"
             }
-            else if(tag == "Self-Branding"){
+            else if(tag == "Personal Branding"){
                 return "#4a148c"
             }
             else if(tag == "Fun"){
@@ -151,15 +151,21 @@ export default {
             else if(tag == "Cloud"){
                 return "orange"
             }
+            else if(tag == "Design"){
+                return "brown"
+            }
+            else if(tag == "Flutter"){
+                return "#03a9f4"
+            }
         },
         showIcon(tag){
-            if(tag == "Web"){
+            if(tag == "Workshop"){
                 return "code"
             }
-            else if(tag == "Mobile"){
+            else if(tag == "Product Demo"){
                 return "stay_primary_portrait"
             }
-            else if(tag == "Self-Branding"){
+            else if(tag == "Personal Branding"){
                 return "trending_up"
             }
             else if(tag == "Fun"){
@@ -167,6 +173,12 @@ export default {
             }
             else if(tag == "Cloud"){
                 return "cloud"
+            }
+            else if(tag == "Design"){
+                return "format_paint"
+            }
+            else if(tag == "Flutter"){
+                return "laptop"
             }
         }
     },
